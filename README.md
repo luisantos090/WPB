@@ -18,7 +18,7 @@ Keywords: Steel beams; Elliptical web openings; Web-post buckling; Strut model; 
 
 
 
-Filename - Beam-EV_1_HSS.py
+Filename - Beam-EV_HSS_1.py
 
 Script to run the parametric studies presented on:
 
