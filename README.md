@@ -1,6 +1,7 @@
 # WPB
 
-filename - 
+filename - Beam-EV_1.py
+
 Script to run the parametric studies presented on:
 
 Felipe Piana Vendramell Ferreira, Rabee Shamass, Luis Fernando Pinho Santos, Vireen Limbachiya, Konstantinos Daniel Tsavdaridis,
