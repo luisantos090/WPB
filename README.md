@@ -5,7 +5,6 @@ Filename - Beam-EV_1.py
 Script to run the parametric studies presented on:
 
 Felipe Piana Vendramell Ferreira, Rabee Shamass, Luis Fernando Pinho Santos, Vireen Limbachiya, Konstantinos Daniel Tsavdaridis,
-
 EC3 design of web-post buckling resistance for perforated steel beams with elliptically-based web openings,
 
 Thin-Walled Structures,
